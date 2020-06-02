@@ -6,7 +6,7 @@ In this website, you canfind all my 201 reading notes
 
 Read#  |  Link
 -----------|-----------
-Read 1 | [Link 1]()
+Read 1 | [Link 1](https://mohammad-samara.github.io/reading-notes/class01)
 Read 2 | [Link 2]()
 Read 3 | [Link 3]()
 Read 4 | [Link 4]()
@@ -20,4 +20,4 @@ Read 11 | [Link 11]()
 Read 12 | [Link 12]()
 Read 13 | [Link 13]()
 Read 14 | [Link 14]()
-Read 15 | [Link 15]()
+Read 15 | [Link 15]() |
