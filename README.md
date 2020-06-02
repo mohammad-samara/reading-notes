@@ -6,7 +6,7 @@ In this website, you canfind all my 201 reading notes
 
 Read#  |  Link
 -----------|-----------
-Read 1 | [Link 2]()
+Read 1 | [Link 1]()
 Read 2 | [Link 2]()
 Read 3 | [Link 3]()
 Read 4 | [Link 4]()
