@@ -2,9 +2,9 @@
 
 In this website, you canfind all my 201 reading notes
 
-## Table of daily reading assignments
+## Table of daily *reading assignments*
 
-Read#  |  Link
+**Read#**  |  **Link**
 -----------|-----------
 Read 1 | [Link 1](https://mohammad-samara.github.io/reading-notes/class01)
 Read 2 | [Link 2]()
@@ -20,4 +20,6 @@ Read 11 | [Link 11]()
 Read 12 | [Link 12]()
 Read 13 | [Link 13]()
 Read 14 | [Link 14]()
-Read 15 | [Link 15]()|
+Read 15 | [Link 15]() |
+
+![doing assignment](https://qualityassignmenthelp.com/wp-content/uploads 2016/06/Stay-On-Top-Of-Your-Assignments-with-Comfort-700x300.jpg)
