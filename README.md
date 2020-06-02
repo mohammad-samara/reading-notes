@@ -22,4 +22,4 @@ Read 13 | [Link 13]()
 Read 14 | [Link 14]()
 Read 15 | [Link 15]() |
 
-![doing assignment](https://qualityassignmenthelp.com/wp-content/uploads 2016/06/Stay-On-Top-Of-Your-Assignments-with-Comfort-700x300.jpg)
+![doing assignment](https://qualityassignmenthelp.com/wp-content/uploads/2016/06/Stay-On-Top-Of-Your-Assignments-with-Comfort-700x300.jpg)
