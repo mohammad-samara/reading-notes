@@ -135,4 +135,4 @@ use the HTML `<script>` element to tell the browser it is coming across a script
 * parameter: a piece of information required by the **method** in order to work.
 * member operator: used to access the members of an object (using the dot between the object name and the member you want).
   * members: **methods and properties** for a specific object.
-** When the browser comes across a `<script>` element, it stops to load the script and then checks to see if it needs to do anything.
+* When the browser comes across a `<script>` element, it stops to load the script and then checks to see if it needs to do anything.
