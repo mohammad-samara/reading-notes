@@ -1,13 +1,14 @@
 # HTML:
 ## Introduction:
 HTML uses elements to describe the structure of pages
-![image of html element](/images/class01/HTML-element.png)
+![image of html element](/images/class01/HTML-element.png) <br />
 In HTML webpage there are several different elements. Each element has an opening tag and a closing tag. Tags acts like containers, they tell you some thing about the information that lies between their opening and closing tags.
 Attributes provide additional information about the contents of an element, they appear on the opening tag of the element and are made up of two parts: a **name** and a **value**, separated by an equal sign.
 Every HTML file is devided into two main parts **head** and **body**.
 * body: everything inside this element is shown inside the main browser window.
 * head: contains information about the page, you will find a <title> element inside the <head> element.
-  * title: the content of the <title> element are either shown in the top of the browser, above where you usually type the URL of the page you want to visit, or on the tab for that page.<hr />
+  * title: the content of the <title> element are either shown in the top of the browser, above where you usually type the URL of the page you want to visit, or on the tab for that page.
+
 # Extra markup
 #### how to make a comment in HTML?
 if you want to add a comment to your code that will not be visible in the user's browser, you can add the text between these characters:
@@ -26,6 +27,6 @@ Inline element: elements will always oppear to continue on the same line as thei
 - iframe: an iframe is like a little window that has been cut into your page, and in that window you can see another page.
 - meta: the <meta> element livew inside the <head> element and contains information about that webpage such as the describtion and keywords to make the page appears on search engines results when the users search for the mentioned keywords.
 - Escape characters: allows to show some characters that are reseved by html code on the web browser window by typing a special code for each character.
-  - EX: to write a left angled bracket, you can use either &lt; or &#60; <hr />
-  # HTML5 Layout
-  
+  - EX: to write a left angled bracket, you can use either &lt; or &#60;
+
+# HTML5 Layout
