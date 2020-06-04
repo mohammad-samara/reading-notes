@@ -4,50 +4,49 @@ HTML Uses Elements to Describe the Structure of Pages
 ![image of HTML element](/images/class01/HTML-element.png) <br />
 In HTML webpage there are several different elements. Each element has an opening tag and a closing tag. Tags act like containers. They tell you something about the information that lies between their opening and closing tags.
 Attributes provide additional information about the contents of an element. They appear on the opening tag of the element and are made up of two parts: a name and a value, separated by an equals sign.
-Every html file is divided into two main parts head and body
-
+Every html file is divided into two main parts head and bodY.
 Body: Everything inside this element is shown inside the main browser window.
-Head: contains information about the page (rather than information that is shown within the main part of the browser window that is highlighted in blue on the opposite page). You will usually find a "<title> element inside the <head>" element.
-Title: The contents of the <title> element are either shown in the top of the browser, above where you usually type in the URL of the page you want to visit, or on the tab for that page (if your browser uses tabs to allow you to view multiple pages at the same time).
+Head: contains information about the page (rather than information that is shown within the main part of the browser window that is highlighted in blue on the opposite page). You will usually find a \<title> element inside the \<head> element.
+Title: The contents of the \<title> element are either shown in the top of the browser, above where you usually type in the URL of the page you want to visit, or on the tab for that page (if your browser uses tabs to allow you to view multiple pages at the same time).
 <hr />
 Extra markup:
 -How to make a comment in html?
  If you want to add a comment to your code that will not be visible in the user's browser, you can add the text between these characters:
-"<!-- comment goes here -->"
+\<!-- comment goes here -->
 - ID attribute: 
        - used to uniquely identify that element from other elements on the page (usually to style it differently than any other instance of the same element on the page using css)
        - Its value should start with a letter or an underscore
 - Class attribute: to identify several elements as being different from the other elements on the page (usually all the elements with the same class attribute value will have the same style)
 - Block elements: elements will always appear to start on a new line in the browser window.
-       - Examples of block elements are <h1>, <p>, <ul>, and <li>.
+       - Examples of block elements are \<h1>, \<p>, \<ul>, and \<li>.
 - Inline element: elements will always appear to continue on the same line as their neighboring elements.
        - Examples of inline elements are \<a>, \<b>, \<em>, and \<img>.
-- div: The <div> element allows you to group a set of elements together in one block-level box.
-- span: The <span> element acts like an inline equivalent of the <div> element
+- div: The \<div> element allows you to group a set of elements together in one block-level box.
+- span: The <span> element acts like an inline equivalent of the \<div> element
       - usually used to contain a section of text or to contain a number of inline elements for styling it differently from the surrounding.
 Iframe: An iframe is like a little window that has been cut into your page, and in that window you can see another page.
- - meta : The <meta> element lives inside the <head> element and contains information about that web page such as the Description and Keywords to make the page appears on search engines when they search for those keywords.
+ - meta : The \<meta> element lives inside the \<head> element and contains information about that web page such as the Description and Keywords to make the page appears on search engines when they search for those keywords.
 - Escape characters: allows to show some characters that are reserved by html code on the web browser window by typing a special code for each character
-  - for example to write a left angled bracket, you can use either &lt; or &#60;
+  - for example to write a left angled bracket, you can use either \&lt; or \&#60;
 <hr />
 	HTML5 layout
-For a long time, web page authors used <div> elements to group together related elements on the page, Authors used class or id attributes to indicate the role of the <div> element in the structure of the page.
+For a long time, web page authors used \<div> elements to group together related elements on the page, Authors used class or id attributes to indicate the role of the \<div> element in the structure of the page.
 HTML5 introduces a new set of elements that allow you to divide up the parts of a page. The names of these elements indicate the kind of content you will find in them
-Example: <header>, <nav>, <aside>, <footer>, <article>, <section>, <hgroup>
-Each of the previous elements acts like a block level element like the <div> but also describes the content inside them.
-<header>: appears on the top of page. Also can be set for individual section or article, usually contains the title, the logo and the navigation bar.
-<footer>: appears on the bottom of page, could be set for individual article or section, and usually contains the copyright and terms of policies
-<nav>: contain the major navigational blocks on the site like links to each page on the site.
-<article>: acts as a container for any section of a page that could stand alone and potentially be syndicated.
-<aside>: 
-- When the <aside> element is used inside an <article> element, it should contain information that is related to the article but not essential to its overall meaning. For example, a pullquote or glossary.
-- When it is used outside of an <article> element, it acts as a container for content that is related to the entire page. Such as containing links to other sections of the site, a list of recent posts, a search box.
-<section>: groups related content together, and typically each section would have its own heading, or used to divide an element into parts.
-<hgroup>: to group together a set of one or more <h1> through <h6> elements so that they are treated as one single heading.
-<figure>: used to contain any content that is referenced from the main flow of an article. But usually used to contain images or videos and add a text under them to describe them using <figcaption>.
-<div>: to group a set of elements together in one block-level box, and used where there is no suitable element to group a set of elements.
+Example: \<header>, \<nav>, \<aside>, \<footer>, \<article>, \<section>, \<hgroup>
+Each of the previous elements acts like a block level element like the \<div> but also describes the content inside them.
+\<header>: appears on the top of page. Also can be set for individual section or article, usually contains the title, the logo and the navigation bar.
+\<footer>: appears on the bottom of page, could be set for individual article or section, and usually contains the copyright and terms of policies
+\<nav>: contain the major navigational blocks on the site like links to each page on the site.
+\\article>: acts as a container for any section of a page that could stand alone and potentially be syndicated.
+\<aside>: 
+- When the \<aside> element is used inside an \<article> element, it should contain information that is related to the article but not essential to its overall meaning. For example, a pullquote or glossary.
+- When it is used outside of an \<article> element, it acts as a container for content that is related to the entire page. Such as containing links to other sections of the site, a list of recent posts, a search box.
+\<section>: groups related content together, and typically each section would have its own heading, or used to divide an element into parts.
+\<hgroup>: to group together a set of one or more \<h1> through \<h6> elements so that they are treated as one single heading.
+\<figure>: used to contain any content that is referenced from the main flow of an article. But usually used to contain images or videos and add a text under them to describe them using \<figcaption>.
+\<div>: to group a set of elements together in one block-level box, and used where there is no suitable element to group a set of elements.
 
-Linking around block level element: to turn an entire block into a link by placing an <a> element around a block level element that contains child elements, usually used to redirect the user into an advertising webpages.
+Linking around block level element: to turn an entire block into a link by placing an \<a> element around a block level element that contains child elements, usually used to redirect the user into an advertising webpages.
 <hr />
 Process & design
 How to make a better website surfing experience?
