@@ -5,14 +5,15 @@ HTML Uses Elements to Describe the Structure of Pages
 In HTML webpage there are several different elements. Each element has an opening tag and a closing tag. Tags act like containers. They tell you something about the information that lies between their opening and closing tags.
 Attributes provide additional information about the contents of an element. They appear on the opening tag of the element and are made up of two parts: a name and a value, separated by an equals sign.
 Every html file is divided into two main parts head and body
+
 Body: Everything inside this element is shown inside the main browser window.
-Head: contains information about the page (rather than information that is shown within the main part of the browser window that is highlighted in blue on the opposite page). You will usually find a <title> element inside the <head> element.
+Head: contains information about the page (rather than information that is shown within the main part of the browser window that is highlighted in blue on the opposite page). You will usually find a "<title> element inside the <head>" element.
 Title: The contents of the <title> element are either shown in the top of the browser, above where you usually type in the URL of the page you want to visit, or on the tab for that page (if your browser uses tabs to allow you to view multiple pages at the same time).
-<br />
+<hr />
 Extra markup:
 -How to make a comment in html?
  If you want to add a comment to your code that will not be visible in the user's browser, you can add the text between these characters:
-<!-- comment goes here -->
+"<!-- comment goes here -->"
 - ID attribute: 
        - used to uniquely identify that element from other elements on the page (usually to style it differently than any other instance of the same element on the page using css)
        - Its value should start with a letter or an underscore
@@ -28,7 +29,7 @@ Iframe: An iframe is like a little window that has been cut into your page, and 
  - meta : The <meta> element lives inside the <head> element and contains information about that web page such as the Description and Keywords to make the page appears on search engines when they search for those keywords.
 - Escape characters: allows to show some characters that are reserved by html code on the web browser window by typing a special code for each character
   - for example to write a left angled bracket, you can use either &lt; or &#60;
-<br />
+<hr />
 	HTML5 layout
 For a long time, web page authors used <div> elements to group together related elements on the page, Authors used class or id attributes to indicate the role of the <div> element in the structure of the page.
 HTML5 introduces a new set of elements that allow you to divide up the parts of a page. The names of these elements indicate the kind of content you will find in them
@@ -47,7 +48,7 @@ Each of the previous elements acts like a block level element like the <div> but
 <div>: to group a set of elements together in one block-level box, and used where there is no suitable element to group a set of elements.
 
 Linking around block level element: to turn an entire block into a link by placing an <a> element around a block level element that contains child elements, usually used to redirect the user into an advertising webpages.
-<br />
+<hr />
 Process & design
 How to make a better website surfing experience?
 - Design your website by answering each question below to determine what needs to appear on your site
@@ -77,7 +78,7 @@ It should be concise (quick and easy to read), clear (Users should be able to pr
 <hr />
 # Java Script
 
-![image of javascript](https://hackernoon.com/hn-images/1*bxEkHw1xewxOFjmGunb-Cw.png)
+![image of javascript](https://hackernoon.com/hn-images/1*bxEkHw1xewxOFjmGunb-Cw.png) <br />
 ## Introduction:
 java script allows you to make web pages more interactive by accessing and modifying the content and markup used in web page while it is being viewed in the browser.
 
@@ -85,7 +86,7 @@ java script allows you to make web pages more interactive by accessing and modif
 - you can use java script to add elements, attributes, text, and images to the page, or remove them.
 - you can specify a set of steps (script) for the browser to follow, which allows it to access or change the content of the page.
 - You can specify that a script should run when a specific event has occurred.
-<br />
+<hr />
 ## The abc of programming
 ### What is script in java script?
 **A script is a series of instructions that a computer can follow to achieve a goal.**
@@ -96,7 +97,7 @@ java script allows you to make web pages more interactive by accessing and modif
 2- split the goal out into a series of tasks
 3- code each step
 * Often scripts will need to perform different tasks in different situations. You can use flowcharts to work out how the tasks fit together. The flowcharts show the paths between each step.
-<br />
+<hr />
 ### Computers create models of the word using data
 A computer has no predefined concept of what kind of real -world object each model represents so programmers create a very different kind of model using data because the data is all the computer needs in order to follow the instructions you give it to carry out its tasks.
 - objects: In computer programming, each physical thing in the world can be represented as an object and each object can have its own properties, events, and methods
@@ -117,7 +118,8 @@ Web browsers create similar models of the web page they are showing and of the b
 3. use a rendering engine to show the page on screen
 <hr />
 ## how do I write a script for a webpage?
-![image of html&css&js](https://www.10bestdesign.com/blog/content/images/2018/03/30.png)
+
+![image of html&css&js](https://www.10bestdesign.com/blog/content/images/2018/03/30.png)<br />
 Web developers usually talk about three languages that are used to create web pages: HTML, CSS, and JavaScript. usually kept in separate files. Each language forms a separate layer with a different purpose:
 1. content layer (.html files): This is where the **content** of the page lives. The HTML gives the page structure and adds semantics.
 2. presentation layer (.css files): applies **styling** to the content
@@ -128,7 +130,7 @@ use the HTML <script> element to tell the browser it is coming across a script. 
  - you can also put your scripts in the <script> element without defining any source or using an external java script file.
 ** scripts are usually added just before the closing </body> tag (this is often considered a better place to put your scripts).
 ## how to use objects and methods?
-![image of javascript line](/images/class01/js-line.png)
+![image of javascript line](/images/class01/js-line.png)<br />
 * the **document** object represents the entire web page
 * **the write()**method of the **document** allows new content to be written into the page ***where the <script>element sits.***
 * parameter: a piece of information required by the **method** in order to work
