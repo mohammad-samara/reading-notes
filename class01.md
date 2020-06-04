@@ -1,14 +1,14 @@
 HTML:
 Introduction:
 HTML Uses Elements to Describe the Structure of Pages
-![image of HTML element](/images/class01/HTML-element.png)
+![image of HTML element](/images/class01/HTML-element.png) <br />
 In HTML webpage there are several different elements. Each element has an opening tag and a closing tag. Tags act like containers. They tell you something about the information that lies between their opening and closing tags.
 Attributes provide additional information about the contents of an element. They appear on the opening tag of the element and are made up of two parts: a name and a value, separated by an equals sign.
 Every html file is divided into two main parts head and body
 Body: Everything inside this element is shown inside the main browser window.
 Head: contains information about the page (rather than information that is shown within the main part of the browser window that is highlighted in blue on the opposite page). You will usually find a <title> element inside the <head> element.
 Title: The contents of the <title> element are either shown in the top of the browser, above where you usually type in the URL of the page you want to visit, or on the tab for that page (if your browser uses tabs to allow you to view multiple pages at the same time).
-----------------------------------------------------------------
+<br />
 Extra markup:
 -How to make a comment in html?
  If you want to add a comment to your code that will not be visible in the user's browser, you can add the text between these characters:
@@ -20,7 +20,7 @@ Extra markup:
 - Block elements: elements will always appear to start on a new line in the browser window.
        - Examples of block elements are <h1>, <p>, <ul>, and <li>.
 - Inline element: elements will always appear to continue on the same line as their neighboring elements.
-       - Examples of inline elements are <a>, <b>, <em>, and <img>.
+       - Examples of inline elements are \<a>, \<b>, \<em>, and \<img>.
 - div: The <div> element allows you to group a set of elements together in one block-level box.
 - span: The <span> element acts like an inline equivalent of the <div> element
       - usually used to contain a section of text or to contain a number of inline elements for styling it differently from the surrounding.
@@ -28,7 +28,7 @@ Iframe: An iframe is like a little window that has been cut into your page, and 
  - meta : The <meta> element lives inside the <head> element and contains information about that web page such as the Description and Keywords to make the page appears on search engines when they search for those keywords.
 - Escape characters: allows to show some characters that are reserved by html code on the web browser window by typing a special code for each character
   - for example to write a left angled bracket, you can use either &lt; or &#60;
----------------------------------------------
+<br />
 	HTML5 layout
 For a long time, web page authors used <div> elements to group together related elements on the page, Authors used class or id attributes to indicate the role of the <div> element in the structure of the page.
 HTML5 introduces a new set of elements that allow you to divide up the parts of a page. The names of these elements indicate the kind of content you will find in them
@@ -47,7 +47,7 @@ Each of the previous elements acts like a block level element like the <div> but
 <div>: to group a set of elements together in one block-level box, and used where there is no suitable element to group a set of elements.
 
 Linking around block level element: to turn an entire block into a link by placing an <a> element around a block level element that contains child elements, usually used to redirect the user into an advertising webpages.
-----------------------------------------------------------
+<br />
 Process & design
 How to make a better website surfing experience?
 - Design your website by answering each question below to determine what needs to appear on your site
@@ -85,7 +85,7 @@ java script allows you to make web pages more interactive by accessing and modif
 - you can use java script to add elements, attributes, text, and images to the page, or remove them.
 - you can specify a set of steps (script) for the browser to follow, which allows it to access or change the content of the page.
 - You can specify that a script should run when a specific event has occurred.
-----------------------
+<br />
 ## The abc of programming
 ### What is script in java script?
 **A script is a series of instructions that a computer can follow to achieve a goal.**
@@ -96,7 +96,7 @@ java script allows you to make web pages more interactive by accessing and modif
 2- split the goal out into a series of tasks
 3- code each step
 * Often scripts will need to perform different tasks in different situations. You can use flowcharts to work out how the tasks fit together. The flowcharts show the paths between each step.
-----------------------------
+<br />
 ### Computers create models of the word using data
 A computer has no predefined concept of what kind of real -world object each model represents so programmers create a very different kind of model using data because the data is all the computer needs in order to follow the instructions you give it to carry out its tasks.
 - objects: In computer programming, each physical thing in the world can be represented as an object and each object can have its own properties, events, and methods
