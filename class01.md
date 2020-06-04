@@ -12,7 +12,7 @@ Every HTML file is devided into two main parts **head** and **body**.
 # Extra markup
 #### how to make a comment in HTML?
 if you want to add a comment to your code that will not be visible in the user's browser, you can add the text between these characters:
-<!-- comment goes here -->
+`<!-- comment goes here -->`
 - id attribute
   - used to uniquely identify that element from other elements on the page (usually to style it differently than any other instance of the other element on the page using css)
   - its value should start with a letter or an underscore
