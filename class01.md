@@ -78,3 +78,61 @@ It should be concise (quick and easy to read), clear (Users should be able to pr
 <hr />
 
 # java script
+
+![image of javascript](https://hackernoon.com/hn-images/1*bxEkHw1xewxOFjmGunb-Cw.png)
+
+### Introduction:
+java script allows you to make web pages more interactive by accessing and modifying the content and markup used in web page while it is being viewed in the browser.
+- you can use java script to select any element like h1 or any elements with a specific class attribute or Id attribute
+- you can use java script to add elements, attributes, text, and images to the page, or remove them.
+- you can specify a set of steps (script) for the browser to follow, which allows it to access or change the content of the page.
+- You can specify that a script should run when a specific event has occurred.
+### The abc of programming
+##### What is script in java script?
+**A script is a series of instructions that a computer can follow to achieve a goal.**
+* scripts are made up of instructions a computer can follow step by step.
+* the browser could run different parts of the script depending on how the user interacts with the webpage.
+#### How to write a script?
+1. define the goal you want to achieve
+2. split the goal out into a series of tasks
+3. code each step
+* Often scripts will need to perform different tasks in different situations. You can use flowcharts to work out how the tasks fit together. The flowcharts show the paths between each step.
+#### Computers create models of the word using data
+A computer has no predefined concept of what kind of real -world object each model represents so programmers create a very different kind of model using data because the data is all the computer needs in order to follow the instructions you give it to carry out its tasks.
+- objects: In computer programming, each physical thing in the world can be represented as an object and each object can have its own properties, events, and methods
+  - Each property has a name and a value, and each of these name/value pairs tells you something about each individual instance of the object.
+  - Event: people interact with objects. These interactions can change the values of the properties in these objects. a script will state which events the programmer wants to respond to, and what part of the script should be run when each of those events occur
+  - method: Methods represent things people need to do with objects. They can retrieve or update the values of an object's properties. In general, it represents a task.
+All of the previous relate to each other: events can trigger methods, and methods can retrieve or update an object's properties.
+#### web browsers are programs built using objects
+Web browsers create similar models of the web page they are showing and of the browser window that the page is being shown in.
+- window object: The browser represents each window or tab using a window object.
+- document object: The current web page loaded into each window is modelled using a document object which represents an HTML page.
+  - Using the document object, you can access and change what content users see on the page and respond to how they interact with it.
+##### how a browser sees a webpage? how a browser interprets the HTML code and applies styling to it?
+1. receive a page as an HTML code
+2. create a model of the page and store it in the memory
+3. use a rendering engine to show the page on screen
+##### how do I write a script for a webpage?
+
+![image of html, css , and js](https://www.10bestdesign.com/blog/content/images/2018/03/30.png)
+
+Web developers usually talk about three languages that are used to create web pages: HTML, CSS, and JavaScript. usually kept in separate files. Each language forms a separate layer with a different purpose:
+1. content layer (.html files): This is where the **content** of the page lives. The HTML gives the page structure and adds semantics.
+2. presentation layer (.css files): applies **styling** to the content
+3. behavior layer (.js files): adding **interactivity** and changes the page behaves
+** JavaScript is written in plain text, just like HTML and CSS, so you do not need any new tools to write a script.
+#### linking to a java script file from an html page
+use the HTML `<script>` element to tell the browser it is coming across a script. Its src attribute whose value is the path to the script tells the browser where the JavaScript file is stored.
+  - you can also put your scripts in the `<script>` element without defining any source or using an external java script file.
+** scripts are usually added just before the closing `</body>` tag (this is often considered a better place to put your scripts).
+##### how to use objects and methods?
+
+![image of javascript line](/images/class01/js-line.png)
+
+* the **document** object represents the entire web page.
+* **the write()**method of the **document** allows new content to be written into the page ***where the `<script>`element sits.***
+* parameter: a piece of information required by the **method** in order to work.
+* member operator: used to access the members of an object (using the dot between the object name and the member you want).
+  * members: **methods and properties** for a specific object.
+** When the browser comes across a <script> element, it stops to load the script and then checks to see if it needs to do anything.
