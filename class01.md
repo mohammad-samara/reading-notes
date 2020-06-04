@@ -50,19 +50,19 @@ Each of the previous elements acts like a block level element like the `<div>` b
 Linking around block level element: to turn an entire block into a link by placing an `<a>` element around a block level element that contains child elements, usually used to redirect the user into an advertising webpages.
 ### How to make a better website surfing experience?
 - Design your website by answering each question below to determine what needs to appear on your site:
-1. who are your visitors?
-  - Every website should be designed for the target. It is therefore very important to understand who your target audience is. Like what’s their ages, countries, gender, average income, …
-  - Does the website targets individuals or companies?
-  - make a category of people who visit your site and collect information about them.
-2. why they visit your website?
-  - Are they looking for some entertainment or they need to achieve a specific goal?
-  - are they after a general information or they want them specific?
-  - Do they need to be introduced to the service or product you offer?
-  - Do they need to contact you?
-3. make a list of reasons why people would visit your website by collecting information.
-4. what information visitors need in order to achieve their goals quickly and effectively?
-  * Make sure that all the provided information and products or services are relevant to the visitor goals
-5. determine which parts of the site will be updated frequently (like latest news)
+  1. who are your visitors?
+   - Every website should be designed for the target. It is therefore very important to understand who your target audience is. Like what’s their ages, countries, gender, average income, …
+   - Does the website targets individuals or companies?
+   - make a category of people who visit your site and collect information about them.
+  2. why they visit your website?
+   - Are they looking for some entertainment or they need to achieve a specific goal?
+   - are they after a general information or they want them specific?
+   - Do they need to be introduced to the service or product you offer?
+   - Do they need to contact you?
+  3. make a list of reasons why people would visit your website by collecting information.
+  4. what information visitors need in order to achieve their goals quickly and effectively?
+   * Make sure that all the provided information and products or services are relevant to the visitor goals
+  5. determine which parts of the site will be updated frequently (like latest news)
 
 - Site Map: a diagram of the pages that will be used to structure the site, and it will show how those pages can be grouped.
  * Organize the information on your website into sections or pages so that it would be easier for visitors to navigate and find the information they seek
