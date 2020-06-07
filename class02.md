@@ -186,7 +186,7 @@ Comparison operators usually return single values of **true** or **false**, logi
 
 
 1. logical and (&&) : if both expressions evaluate to true then the expression returns true. if just one of these returns false, then the expression will return false.
-2. logical or (||) : if either expression evaluates to true, then the expression returns true. if both false, then the expression will return false.
+2. logical or (`||`) : if either expression evaluates to true, then the expression returns true. if both false, then the expression will return false.
 3. logical not (!) : reverses the state of an expression. if it was false (without the ! before it) it would return true. if the statement was true, it would return false>
 
 ![image of T-F table](https://1.bp.blogspot.com/-E3z93RXYCGc/XfXd0T8x3FI/AAAAAAAAE04/zNAwwEov8cw-t353RBQ4rAq59znfY0C5QCLcBGAsYHQ/s1600/Screenshot%2B%2528455%2529.png)
