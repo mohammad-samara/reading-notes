@@ -181,7 +181,7 @@ evaluating conditions
 
 Comparison operators usually return single values of **true** or **false**, logical operators allow you to compare the results of more than one comparison operator.
 
-![image of logical operator sentence](/images/javascript2/logical.png)
+![image of logical operator sentence](/images/class02/logical.png)
 
 
 
@@ -197,10 +197,10 @@ Comparison operators usually return single values of **true** or **false**, logi
 
 the if statement checks a condition. if it returns true, any statement in the subsequent code block are executed.
 
-![image of if-statement](/images/javascript2/if-statement.png)
+![image of if-statement](/images/class02/if-statement.png)
 
 ## if...else statement
 
 the if...else statement checks a condition. if it returns true, the first code block is executed, otherwise the second code block is executed.
 
-![image of if-else-statement](/images/javascript2/if-else-statement.png)
+![image of if-else-statement](/images/class02/if-else-statement.png)
