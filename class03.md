@@ -70,7 +70,8 @@ EX2: `margin: 10px 20px;`, the first value specifies left and right margins,whil
 If you want to center a box on the page (or center it inside the element that it sits in), you can **set the left-margin and right-margin to _auto_**, but first you should specify the width of the box (otherwise it will take up the full width of the page).
 
 #### change Inline/Block display behavior
-The ***display*** property allows you to turn an inline element into a block-level element or vice versa.This property can take the following values:  
+The ***display*** property allows you to turn an inline element into a block-level element or vice versa.This property can take the following values  
+
 
 value  |  effect on border
 -----------|-----------
