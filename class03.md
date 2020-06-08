@@ -79,7 +79,7 @@ block | causes an inline element to act like a block-level element
 inline-block | causes a block-level element to flow like an inline element, while retaining other features of a block-level element
 none | This hides an element from the page sithout leaving an empty space in it's place |
 
-  - EX: `display: inline;`
+EX: `display: inline;`
 
 #### hiding boxes
 The ***visibility*** property allows you to hide boxes from users but It leaves a space where the element would have been. This property can take two values:
