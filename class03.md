@@ -28,17 +28,18 @@ Every box has a border (even if it is not visible or is specified to be 0 pixels
 You can also specify different widths for the four border values in one property,like this:`border-width: 2px 1px 1px 2px;`
 where The values here appear in clockwise order: top, right, bottom, left.
 * You can control the style of a border using the ***border-style property***. This property can take the following values:
-value          | effect on border
----------------|---------------
-solid          | a single solid line
-dotted         | a series of square dots
-dashed         | a series of short lines
-double         | two solid lines
-groove         | appears to be carved into the page
-ridge          | appears to stick out from the page
-inset          | appears embedded into the page
-outset         | looks like it is coming out of the screen
-hidden or none | no border is shown |
+
+| value | effect on border |
+| ---------------|--------------- |
+| solid | a single solid line |
+| dotted | a series of square dots |
+| dashed | a series of short lines |
+| double | two solid lines |
+| groove | appears to be carved into the page |
+| ridge | appears to stick out from the page |
+| inset | appears embedded into the page |
+| outset | looks like it is coming out of the screen |
+| hidden or none | no border is shown |
 <!-- 
 1. **solid**: a single solid line.
 2. **dotted**: a series of square dots.
