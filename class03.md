@@ -73,11 +73,11 @@ If you want to center a box on the page (or center it inside the element that it
 The ***display*** property allows you to turn an inline element into a block-level element or vice versa.This property can take the following values:
 
 value | effect on border
--------------|-------------------------
+-----------|-----------
 inline | causes a block-level element to act like an inline element
 block | causes an inline element to act like a block-level element
 inline-block | causes a block-level element to flow like an inline element, while retaining other features of a block-level element
-none | This hides an element from the page sithout leaving an empty space in it's place  |
+none | This hides an element from the page sithout leaving an empty space in it's place |
 
   - EX: `display: inline;`
 
