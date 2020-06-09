@@ -4,6 +4,7 @@ at this webpage I will tell you about what I have learnt today about **html**, *
 ### links
 ##### site links:
 ![image of site links](http://www.webfuel.ca/wp-content/uploads/WebFuel-Google-Canada-Sitelinks.jpg)
+
 links are a clickable elements that takes you to another page or to another part of the same page.
 to create a link we use the `<a>` tag as the following example:
 `<a href="http://www.google.com/">Google</a>` where the content of href is the ***URL*** of the targeted webpage, and the text between the two `<a>`and`</a>` tag will appear on your website as a clickable link with defult blue color and underlined.
@@ -21,6 +22,7 @@ use the `#` symbol followed by the ***id*** of the targeted part as: `<a href="#
 ## CSS
 ### layout :
 ![image of html boxes](https://complete-concrete-concise.com/wp-content/uploads/2018/04/17-css-flow.png)
+
 each html element sets inside a block that could be a *block-level box* or an *inline box*
   - block-level box: starts on a new line.
     - EX: `<div>`, `<li>`, `<p>`,`<ul>`
@@ -35,19 +37,25 @@ to change the element position use one of the following positioning schemes:
   - syntax: `position: static;`
 2. relative positioning (`relative`): moves an element with respect to it's position at normal flow
   - syntax:  
-  ```position: relative;
+  ```
+  position: relative;
   top: 20px;
-  left: 50px;```
+  left: 50px;
+  ```
 3. absolute positioning (`absolute`):specify where the element should appear in relation to its containing element.
   - syntax:  
-  ```position: absolute;
+  ```
+  position: absolute;
   top: 20px;
-  left: 500px;```
+  left: 500px;
+  ```
 4. fixed positioning (`fixed`):specify where the element should appear in relation to the browser window, so you will see the element even if you scroll down like it is pinned on the screen.
   - syntax:  
-  ```position: fixed;
+  ```
+  position: fixed;
   top: 20px;
-  left: 500px;```
+  left: 500px;
+  ```
 
 ##### overlapping elements
 to determine which element should be shown of two elements overlap use the z-index property with a numeric value, so that the element with the highest z-index value will be shown over the other element
@@ -65,7 +73,9 @@ to moves an element to Far right or far left of the Containing element use `floa
 * *above the fold*:The area of the page that users would see without scrolling,so use it wisely to let the user know what the site is about.
 
 #### fixed width latout vs liquid layouts
+
 ![image of fixed layout vs liquid layout](https://image.slidesharecdn.com/beautifulwebdesign-150328144915-conversion-gate01/95/beautiful-web-design-21-638.jpg?cb=1427554523)
+
 ##### fixed width latout
 * a fixed width layout will remain it's size when the users change the browser window size.
 * measurements are specified using pixels
@@ -75,6 +85,7 @@ to moves an element to Far right or far left of the Containing element use `floa
 * A liquid-width layout expands and contracts to fill the available space.
 * are based on percentages of the current browser window's size
 * it is harder to control the appearance, position,and sizes of elements.
+
 ![image of liquid layout](https://www.markupbox.com/blog/wp-content/uploads/2015/10/fluid_website_layout.jpg)
 
 ## javascript
