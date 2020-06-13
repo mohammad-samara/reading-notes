@@ -1,5 +1,28 @@
 # advanced web development  
 
+## Objects:
+object: a group of properties(similar to variables) and methods(similar to functions) that are related inorder to create a model of something.
+  * properties and methods have a name (called "key") and a value.
+#### creating an object:
+```
+var objectName = {
+    property1: property1-value,
+    property2: property2-value,
+    property3: property3-value,
+    methodName1: function() {
+        code-statements of the function
+    }
+}
+```
+* the property value could be a string, a boolean, a number, an array, or an object.
+* the value of the method is always a function.  
+#### accessing an object
+use the following syntax for accessing an object's property or method:  
+`var varName = objectName.methodName()/propertyName;`  
+also you can use the next method to only access a property of an object using square bracket syntax:  
+`var varName = objectName['propertyName'];`  
+
+## DOM
 **DOM**(document object module): a set of rules implemented by internet browsers to specify how an html page loads and how javascript access and edit the html page content.  
 
 **dom tree**: when the browser load the page it creates a model of that page and store it in the memory. it consists of nodes, each represents an hatm tag or an attribute, and it links between them as the family tree.  
