@@ -87,7 +87,7 @@ it objects come by browser's inorder to get helpful informations without any nee
 
 #### document object model properties and methods:
 | property | describtion | NL | method | describtion |  
-| -------- | ----------- | ---------- | ------ | ----------- |  
+| -------- | -------- | -------- | -------- | -------- |  
 | document.title|Title of current document | NL | document.write() | Writes text to document |  
 | document .URL | Returns string containing URL of current document | NL | document . getElementByld() | Returns element matching the specific id |  
 | document.lastModified | Date on which document was last modified | NL | document.createElement() | Creates new element |  
