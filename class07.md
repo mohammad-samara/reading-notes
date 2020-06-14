@@ -86,13 +86,13 @@ it objects come by browser's inorder to get helpful informations without any nee
 
 
 #### document object model properties and methods:
-| property | describtion | NL | method | describtion |  
-| --------|--------|--------|--------|-------- |  
-| document.title | Title of current document | NL | document.write() | Writes text to document |  
-| document.URL | Returns string containing URL of document | NL | document.getElementByld() | Returns element matching the id |  
-| document.lastModified | Date on which document was last modified | NL | document.createElement() | Creates new element |  
-| document.domain | Returns domain of current document | NL | document.createTextNode() | Creates new text node |  
-| NL | NL | NL | document. querySe1ectorA11 () | Returns list of elements that match a CSS selector |  
+| property | describtion | NL | method | describtion |
+| --------|--------|--------|--------|-------- |
+| document.title | Title of current document | NL | document.write() | Writes text to document |
+| document.URL | Returns string containing URL of document | NL | document.getElementByld() | Returns element matching the id |
+| document.lastModified | Date on which document was last modified | NL | document.createElement() | Creates new element |
+| document.domain | Returns domain of current document | NL | document.createTextNode() | Creates new text node |
+| NL | NL | NL | document. querySe1ectorA11 () | Returns list of elements that match a CSS selector |
 
 
 #### global javascript objects
