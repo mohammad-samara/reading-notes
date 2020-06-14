@@ -71,28 +71,28 @@ it objects come by browser's inorder to get helpful informations without any nee
 3. document object model: creates a representation of the current page(an object for each element and attributes and text).
 
 #### browser object model properties and methods
-|property|describtion|\*\*\*\*\*|method|describtion|
-|--------|-----------|----------|------|-----------|
-|window . innerHeight|Height of browser's window|\ \ \ \ |window. alert()|Creates dialog box with message|
-|window.innerWidth|Width of browser's window|\ \ \ \ |window.print()|Tells browser that user wants to print contents of current page|
-|window.location|Current URL of window object|\ \ \ \ |window.open ()|Opens new browser window with URL specified as parameter|
-|window.screen.width|the width of the device screen|  |   |
-|window.screen.height|the height of the device screen|  |   |
-|window.pageXOffset|Distance document has been scrolled horizontally|  |   |
-|window. pageYOffset|Distance document has been scrolled vertica lly|  |   |
-|window.screenX|X-coordinate of pointer|  |   |
-|window.screenY|y-coordinate of pointer|  |   |
-||||
+| property | describtion | \*\*\*\*\* | method | describtion |
+| -------- | ----------- | ---------- | ------ | ----------- |
+| window . innerHeight | Height of browser's window | \ \ \ \  | window. alert() | Creates dialog box with message |
+| window.innerWidth | Width of browser's window | \ \ \ \  | window.print() | Tells browser that user wants to print contents of current page |
+| window.location | Current URL of window object | \ \ \ \  |window.open () | Opens new browser window with URL specified as parameter |
+| window.screen.width | the width of the device screen |  |   |
+| window.screen.height | the height of the device screen |  |   |
+| window.pageXOffset | Distance document has been scrolled horizontally |  |   |
+| window. pageYOffset | Distance document has been scrolled vertica lly |  |   |
+| window.screenX | X-coordinate of pointer |  |   |
+| window.screenY | y-coordinate of pointer |  |   |
+| | | |
 
 
 #### document object model properties and methods:
-|property|describtion|\*\*\*\*\*|method|describtion|
-|--------|-----------|----------|------|-----------|
-|document.title|Title of current document| |document.write()|Writes text to document|
-|document .URL|Returns string containing URL of current document| |document . getElementByld()|Returns element matching the specific id|
-|document.lastModified|Date on which document was last modified| |document.createElement()|Creates new element|
-|document.domain|Returns domain of current document| |document.createTextNode()|Creates new text node|
-| | | |document. querySe1ectorA11 ()|Returns list of elements that match a CSS selector|
+| property | describtion | \*\*\*\*\* | method | describtion |
+| -------- | ----------- | ---------- | ------ | ----------- |
+| document.title|Title of current document | | document.write() | Writes text to document |
+| document .URL | Returns string containing URL of current document | | document . getElementByld() | Returns element matching the specific id |
+| document.lastModified | Date on which document was last modified | | document.createElement() | Creates new element |
+| document.domain | Returns domain of current document | | document.createTextNode() | Creates new text node |
+| | | | document. querySe1ectorA11 () | Returns list of elements that match a CSS selector |
 | | | | | |
 
 #### global javascript objects
