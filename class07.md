@@ -71,22 +71,22 @@ it objects come by browser's inorder to get helpful informations without any nee
 3. document object model: creates a representation of the current page(an object for each element and attributes and text).
 
 #### browser object model properties and methods
-| property | describtion | \*\*\*\*\* | method | describtion |
+| property | describtion | NL | method | describtion |
 | -------- | ----------- | ---------- | ------ | ----------- |
 | window . innerHeight | Height of browser's window | NL  | window. alert() | Creates dialog box with message |
 | window.innerWidth | Width of browser's window | NL  | window.print() | Tells browser that user wants to print contents of current page |
 | window.location | Current URL of window object | NL  |window.open () | Opens new browser window with URL specified as parameter |
-| window.screen.width | the width of the device screen | NL | NL |
-| window.screen.height | the height of the device screen | NL | NL |
-| window.pageXOffset | Distance document has been scrolled horizontally | NL | NL |
-| window. pageYOffset | Distance document has been scrolled vertica lly | NL | NL |
-| window.screenX | X-coordinate of pointer | NL |   |
-| window.screenY | y-coordinate of pointer | NL |   |
+| window.screen.width | the width of the device screen | NL | NL | NL |
+| window.screen.height | the height of the device screen | NL | NL | NL |
+| window.pageXOffset | Distance document has been scrolled horizontally | NL | NL | NL |
+| window. pageYOffset | Distance document has been scrolled vertica lly | NL | NL | NL |
+| window.screenX | X-coordinate of pointer | NL | NL | NL |
+| window.screenY | y-coordinate of pointer | NL |  NL | NL |
 
 
 
 #### document object model properties and methods:
-| property | describtion | \*\*\*\*\* | method | describtion |
+| property | describtion | NL | method | describtion |
 | -------- | ----------- | ---------- | ------ | ----------- |
 | document.title|Title of current document | NL | document.write() | Writes text to document |
 | document .URL | Returns string containing URL of current document | NL | document . getElementByld() | Returns element matching the specific id |
