@@ -25,7 +25,7 @@ also you can use the next method to only access a property of an object using sq
 ## DOM
 **DOM**(document object module): a set of rules implemented by internet browsers to specify how an html page loads and how javascript access and edit the html page content.  
 
-**dom tree**: when the browser load the page it creates a model of that page and store it in the memory. it consists of nodes, each represents an hatm tag or an attribute, and it links between them as the family tree.  
+**dom tree**: when the browser load the page it creates a model of that page and store it in the memory. it consists of nodes, each represents an html tag or an attribute, and it links between them as the family tree.  
 
 ![image of DOM tree](/images/class06/DOM-tree.png)
 
