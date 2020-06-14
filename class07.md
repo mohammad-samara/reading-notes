@@ -72,7 +72,7 @@ it objects come by browser's inorder to get helpful informations without any nee
 
 #### browser object model properties and methods
 | property | describtion | NL | method | describtion |  
-| -------- | ----------- | ---------- | ------ | ----------- |  
+| --------|-----------|----------|------|----------- |  
 | window . innerHeight | Height of browser's window | NL  | window. alert() | Creates dialog box with message |  
 | window.innerWidth | Width of browser's window | NL  | window.print() | Tells browser that user wants to print contents of current page |  
 | window.location | Current URL of window object | NL  |window.open () | Opens new browser window with URL specified as parameter |  
@@ -87,7 +87,7 @@ it objects come by browser's inorder to get helpful informations without any nee
 
 #### document object model properties and methods:
 | property | describtion | NL | method | describtion |  
-| -------- | -------- | -------- | -------- | -------- |  
+| --------|--------|--------|--------|-------- |  
 | document.title|Title of current document | NL | document.write() | Writes text to document |  
 | document .URL | Returns string containing URL of current document | NL | document . getElementByld() | Returns element matching the specific id |  
 | document.lastModified | Date on which document was last modified | NL | document.createElement() | Creates new element |  
