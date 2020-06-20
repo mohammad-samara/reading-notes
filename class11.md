@@ -70,7 +70,7 @@ In order to put your site on the web you will need a *domain name* and *web host
 use `<video>` and `<audio>` elements to embed video and audio into web pages.
   * note that this elements come with their own APIs for controlling playback, seeking, etc.
   * use the `controls` attribute enables the default set of playback controls.
-  * you can remove the `controls` attribute and make your own controls using html,css,and JavaScript.
+  * you can remove the `controls` attribute and make your own controls using html,css,and JavaScript.  
 ```
 <video controls>
   <source src="path with extention like .mp4" type="video/mp4">
