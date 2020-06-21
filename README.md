@@ -17,7 +17,7 @@ Read 8 | [Link 8](https://mohammad-samara.github.io/reading-notes/class08)
 Read 9 | [Link 9](https://mohammad-samara.github.io/reading-notes/class09)
 Read 10 | [Link 10](https://mohammad-samara.github.io/reading-notes/class10)
 Read 11 | [Link 11](https://mohammad-samara.github.io/reading-notes/class11)
-Read 12 | [Link 12]()
+Read 12 | [Link 12](https://mohammad-samara.github.io/reading-notes/class12)
 Read 13 | [Link 13]()
 Read 14 | [Link 14]()
 Read 15 | [Link 15]() |
