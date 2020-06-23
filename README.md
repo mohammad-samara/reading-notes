@@ -19,7 +19,7 @@ Read 10 | [Link 10](https://mohammad-samara.github.io/reading-notes/class10)
 Read 11 | [Link 11](https://mohammad-samara.github.io/reading-notes/class11)
 Read 12 | [Link 12](https://mohammad-samara.github.io/reading-notes/class12)
 Read 13 | [Link 13](https://mohammad-samara.github.io/reading-notes/class13)
-Read 14 | [Link 14]()
-Read 15 | [Link 15]() |
+Read 14 | [Link 14](https://mohammad-samara.github.io/reading-notes/class14)
+Read 15 | [Link 15](https://mohammad-samara.github.io/reading-notes/class14b) |
 
 ![doing assignment](https://qualityassignmenthelp.com/wp-content/uploads/2016/06/Stay-On-Top-Of-Your-Assignments-with-Comfort-700x300.jpg)
