@@ -59,7 +59,7 @@ at this section, you canfind all my 301 reading notes
 Read 1 | [Link 1](https://mohammad-samara.github.io/reading-notes/code301/class01)
 Read 2 | [Link 2](https://mohammad-samara.github.io/reading-notes/code301/class02)
 Read 3 | [Link 3](https://mohammad-samara.github.io/reading-notes/code301/class03)
-Read 4 | [Link 4]()
+Read 4 | [Link 4](https://mohammad-samara.github.io/reading-notes/code301/class04)
 Read 5 | [Link 5]()
 Read 6 | [Link 6]()
 Read 7 | [Link 7]()
