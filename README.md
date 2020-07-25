@@ -61,7 +61,7 @@ Read 2 | [Link 2](https://mohammad-samara.github.io/reading-notes/code301/class0
 Read 3 | [Link 3](https://mohammad-samara.github.io/reading-notes/code301/class03)
 Read 4 | [Link 4](https://mohammad-samara.github.io/reading-notes/code301/class04)
 Read 5 | [Link 5](https://mohammad-samara.github.io/reading-notes/code301/class05)
-Read 6 | [Link 6]()
+Read 6 | [Link 6](https://mohammad-samara.github.io/reading-notes/code301/class06)
 Read 7 | [Link 7]()
 Read 8 | [Link 8]()
 Read 9 | [Link 9]()
