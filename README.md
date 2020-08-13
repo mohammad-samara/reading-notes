@@ -70,7 +70,7 @@ Read 11 | [Link 11](https://mohammad-samara.github.io/reading-notes/code301/clas
 Read 12 | [Link 12](https://mohammad-samara.github.io/reading-notes/code301/class12)
 Read 13 | [Link 13](https://mohammad-samara.github.io/reading-notes/code301/class13)
 Read 14 | [Link 14](https://mohammad-samara.github.io/reading-notes/code301/class14a)
-Read 15 | [Link 15]() |
+Read 15 | [Link 15](https://mohammad-samara.github.io/reading-notes/code301/class15) |
 
 ![full stack](https://www.connect4techs.com/wp-content/uploads/2020/02/%D9%83%D9%88%D8%B1%D8%B3-full-stack-1024x576.jpg)
 
