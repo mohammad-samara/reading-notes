@@ -83,7 +83,7 @@ at this section, you canfind all my 401 reading notes
 **Read#**  |  **Link**
 -----------|-----------
 Read 1 | [Link 1](https://mohammad-samara.github.io/reading-notes/code401/class00)
-Read 2 | [Link 2]()
+Read 2 | [Link 2](https://mohammad-samara.github.io/reading-notes/code401/class01)
 Read 3 | [Link 3]()
 Read 4 | [Link 4]()
 Read 5 | [Link 5]()
