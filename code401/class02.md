@@ -1,4 +1,4 @@
-# Class-01
+# Class-02
 
 ### Running JavaScript code outside of a browser?
 
