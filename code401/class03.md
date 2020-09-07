@@ -32,26 +32,29 @@
               - });
               - console.log(arr2);
 
-
 ## Document the following Vocabulary Terms:
-  Vocabulary            |  Definition
- -----------------------|-----------------------------------------------------------------------------------------------------------
- functional programming | is the process of building software by composing pure functions, avoiding shared state, mutable data, and                                side-effects.
-  pure function         | are functions that accept an input and returns a value without modifying any data outside its scope(Side Effects).
-  higher-order function | is a function that can take another function as an argument, or that returns a function as a result.
-  immutable state       | is state that cannot be changed. Immutable objects (for which none of the state can be changed) become important when you are dealing with concurrency, the ability for more than one processor in your computer to operate on that object at the same time.
-  object                | defined as an unordered collection of related data, of primitive or reference types, in the form of “key: value” pairs.
-  (OOP)                 | is a computer programming model that organizes software design around data, or objects, rather than functions and logic.
-  class                 |  is a type of function. Classes are declared with the class keyword. We will use function expression syntax to initialize a function and class expression syntax to initialize a class.
-  prototype             | object may also have a prototype object, which it inherits methods and properties from, and so on.
-  super                 | keyword is used to access and call functions on an object's parent.
-  inheritance           | is an important concept in object oriented programming. In the classical inheritance, methods from base class get copied into derived class.
-  constructor           | is a special type of subroutine called to create an object. It prepares the new object for use, often accepting arguments that the constructor uses to set required member variables.
-  instance              | means a reference to an “object” created by “new” or the equivalent.
-  context               | is related to objects. It refers to the object to which a function belongs. When you use the JavaScript “this” keyword, it refers to the object to which function belongs.
-  this                  |  keyword refers to an object, that object which is executing the current bit of javascript code.  |
+
+Vocabulary | Definition
+-----------------------|-----------------------------------------------------------------------------------------------------------
+functional programming | is the process of building software by composing pure functions, avoiding shared state, mutable data, and side-effects.
+pure function | are functions that accept an input and returns a value without modifying any data outside its scope(Side Effects).
+higher-order function | is a function that can take another function as an argument, or that returns a function as a result.
+immutable state | is state that cannot be changed. Immutable objects (for which none of the state can be changed) become important when you are dealing with concurrency, the ability for more than one processor in your computer to operate on that object at the same time.
+object | defined as an unordered collection of related data, of primitive or reference types, in the form of “key: value” pairs.
+(OOP) | is a computer programming model that organizes software design around data, or objects, rather than functions and logic.
+class | is a type of function. Classes are declared with the class keyword. We will use function expression syntax to initialize a function and class expression syntax to initialize a class.
+prototype | object may also have a prototype object, which it inherits methods and properties from, and so on.
+super | keyword is used to access and call functions on an object's parent.
+inheritance | is an important concept in object oriented programming. In the classical inheritance, methods from base class get copied into derived class.
+constructor | is a special type of subroutine called to create an object. It prepares the new object for use, often accepting arguments that the constructor uses to set required member variables.
+instance | means a reference to an “object” created by “new” or the equivalent.
+context | is related to objects. It refers to the object to which a function belongs. When you use the JavaScript “this” keyword, it refers to the object to which function belongs.
+this | keyword refers to an object, that object which is executing the current bit of javascript code. |  
+
+
 
 # MDN this
+
    - A function's this keyword behaves a little differently in JavaScript compared to other languages. It also has some differences between strict mode and non-strict mode.
    - A property of an execution context (global, function or eval) that, in non–strict mode, is always a reference to an object and in strict mode can be any value.
    - this refers to the global object whether in strict mode or not.
