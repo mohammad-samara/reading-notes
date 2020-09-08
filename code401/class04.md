@@ -31,7 +31,9 @@ MongoDB | is one of the most popular document based NoSQL database as it stores 
 Mongoose | is an Object Data Modeling (ODM) library for MongoDB and Node. ... MongoDB is a schema-less NoSQL document database. It means you can store JSON documents in it, and the structure of these documents can vary as it is not enforced like SQL databases.
 record | is a group of related data held within the same structure.
 document | is a type of nonrelational database that is designed to store and query data as JSON-like documents.
-Object Relation Mapping (ORM) | in computer science is a programming technique for converting data between incompatible type systems using object-oriented programming languages. |  
+Object Relation Mapping (ORM) | in computer science is a programming technique for converting data between incompatible type systems using object-oriented programming languages. |
+
+
 <hr>
 <br>
 ## nosql vs sql
