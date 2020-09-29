@@ -7,7 +7,7 @@
 - it allows applications to communicate by sending messages to each other  
 - it provides temporary message storage when the destination program is busy or not connected.  
 
-![msgQueue](../images/401/msgQueue.PNG)  
+![msgQueue](../images/401/msgQueue.png)  
 
 ## What is a message
 
