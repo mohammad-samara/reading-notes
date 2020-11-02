@@ -117,7 +117,6 @@ Read 37 | [Link 37](https://mohammad-samara.github.io/reading-notes/code401/clas
 Read 38 | [Link 38](https://mohammad-samara.github.io/reading-notes/code401/class38)
 Read 39 | [Link 39](https://mohammad-samara.github.io/reading-notes/code401/class39)
 Read 41 | [Link 41](https://mohammad-samara.github.io/reading-notes/code401/class41)
-Read 42 | [Link 42](https://mohammad-samara.github.io/reading-notes/code401/class42)
 Read 43 | [Link 43](https://mohammad-samara.github.io/reading-notes/code401/class43)
 Read 44 | [Link 44](https://mohammad-samara.github.io/reading-notes/code401/class44) |
 
